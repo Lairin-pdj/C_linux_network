@@ -1,3 +1,9 @@
+//
+// C Network Programing
+// 1 process daytime server
+// composed by Park Dongjun
+//
+
 #include <sys/socket.h>
 #include <stdio.h>
 #include <stdlib.h>

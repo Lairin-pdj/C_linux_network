@@ -1,3 +1,9 @@
+//
+// C Network Programing
+// make testset txt
+// make by Park Dongjun
+//
+
 #include "stdio.h"
 #include "stdlib.h"
 

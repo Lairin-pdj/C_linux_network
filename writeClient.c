@@ -1,3 +1,9 @@
+//
+// C Network Programing
+// no shutdown, select client
+// composed by Park Dongjun
+//
+
 #include "stdio.h"
 #include "stdlib.h"
 #include "sys/socket.h"

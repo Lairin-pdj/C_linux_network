@@ -1,3 +1,9 @@
+//
+// C Network Programing
+// 1 process select server
+// composed by Park Dongjun
+//
+
 #include "stdlib.h"
 #include "stdio.h"
 #include "string.h"
